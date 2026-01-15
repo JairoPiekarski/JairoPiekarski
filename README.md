@@ -21,7 +21,7 @@ Gerenciador de senhas com criptografia AES-128 e derivação de chave segura.
 - **Habilidades:** Criptografia Simétrica (Fernet), PBKDF2, Gestão de Dados Sensíveis.
 - **Foco:** Proteção de dados e Zero Knowledge Architecture.
 
-### 4. [Detector de Ataques Brute Force](https://github.com/JairoPiekarski/brute-force-detector-bash)
+### 4. [Detector de Ataques de Força Bruta](https://github.com/JairoPiekarski/brute-force-detector-bash)
 Sistema de detecção de intrusão (HIDS) em tempo real que monitora logs de autenticação e identifica tentativas de invasão.
 - **Habilidades:** Automação em Bash, Análise de Logs (SIEM logic), Expressões Regulares (Regex) e awk.
 - **Foco:** Monitoramento defensivo, resposta a incidentes e segurança em infraestrutura Linux.
