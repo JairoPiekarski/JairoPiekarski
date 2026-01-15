@@ -25,7 +25,7 @@ Gerenciador de senhas com criptografia AES-128 e derivação de chave segura.
 Sistema de detecção de intrusão (HIDS) em tempo real que monitora logs de autenticação e identifica tentativas de invasão.
 - **Habilidades:** Automação em Bash, Análise de Logs (SIEM logic), Expressões Regulares (Regex) e awk.
 - **Foco:** Monitoramento defensivo, resposta a incidentes e segurança em infraestrutura Linux.
-- 
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
