@@ -6,21 +6,26 @@ Sou um estudante de Cibersegurança. Atualmente, estou construindo meu portfóli
 
 Aqui estão as principais ferramentas que desenvolvi para demonstrar habilidades em redes, defesa e criptografia:
 
-### 1. [Multithreaded Port Scanner](https://github.com/SEU_USUARIO/NOME_DO_REPO_SCANNER)
+### 1. [Multithreaded Port Scanner](https://github.com/JairoPiekarski/multithreaded-port-scanner)
 Ferramenta de reconhecimento de rede que identifica portas abertas em servidores.
 - **Habilidades:** Redes (TCP/IP), Sockets, Multi-threading.
 - **Foco:** Segurança ofensiva e descoberta de ativos.
 
-### 2. [File Integrity Monitor (FIM)](https://github.com/SEU_USUARIO/NOME_DO_REPO_FIM)
+### 2. [File Integrity Monitor (FIM)](https://github.com/JairoPiekarski/file_integrity_manager)
 Sistema de monitoramento que detecta alterações não autorizadas em arquivos críticos.
 - **Habilidades:** Hashing (SHA-256), Monitoramento de Drift, Lógica Blue Team.
 - **Foco:** Conformidade e detecção de Ransomware/Intrusões.
 
-### 3. [Encrypted Password Manager](https://github.com/SEU_USUARIO/encrypted_password_manager)
+### 3. [Encrypted Password Manager](https://github.com/JairoPiekarski/encrypted_password_manager)
 Gerenciador de senhas com criptografia AES-128 e derivação de chave segura.
 - **Habilidades:** Criptografia Simétrica (Fernet), PBKDF2, Gestão de Dados Sensíveis.
 - **Foco:** Proteção de dados e Zero Knowledge Architecture.
 
+### 4. [Detector de Ataques Brute Force](https://github.com/JairoPiekarski/brute-force-detector-bash)
+Sistema de detecção de intrusão (HIDS) em tempo real que monitora logs de autenticação e identifica tentativas de invasão.
+- **Habilidades:** Automação em Bash, Análise de Logs (SIEM logic), Expressões Regulares (Regex) e awk.
+- **Foco:** Monitoramento defensivo, resposta a incidentes e segurança em infraestrutura Linux.
+- 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
